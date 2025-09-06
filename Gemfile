@@ -7,6 +7,7 @@ gem "minimal-mistakes-jekyll", "~> 4.27"
 gem "webrick", "~> 1.9"     
 
 # Plugins required by Minimal Mistakes
+gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
 gem "jekyll-sitemap"
