@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://maiazhang.github.io/blog/post-jpnclust/</loc>
+<lastmod>2016-03-09T21:20:02+00:00</lastmod>
+</url>
+<url>
+<loc>https://maiazhang.github.io/blog/post-mcre/</loc>
+<lastmod>2025-09-11T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://maiazhang.github.io/about/</loc>
 </url>
 <url>
-<loc>https://maiazhang.github.io/categories/</loc>
+<loc>https://maiazhang.github.io/cv/</loc>
 </url>
 <url>
 <loc>https://maiazhang.github.io/</loc>
 </url>
 <url>
-<loc>https://maiazhang.github.io/tags/</loc>
+<loc>https://maiazhang.github.io/scec25/</loc>
 </url>
 <url>
-<loc>https://maiazhang.github.io/posts/</loc>
+<loc>https://maiazhang.github.io/assets/documents/CV.pdf</loc>
+<lastmod>2025-09-12T15:14:44+00:00</lastmod>
+</url>
+<url>
+<loc>https://maiazhang.github.io/assets/documents/Zhang_SCEC_2025.pdf</loc>
+<lastmod>2025-09-12T15:14:44+00:00</lastmod>
 </url>
 </urlset>

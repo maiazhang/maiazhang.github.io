@@ -1,3 +1,4 @@
+/* Import the theme skin and base styles first */
 /* ========================================================================== Aqua skin ========================================================================== */
 /* Colors */
 /* links */
@@ -1313,3 +1314,14 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
+/* --- Custom overrides below --- */
+/* Make homepage post body text smaller */
+.posts .post { font-size: 0.75rem; /* default is ~1rem, shrink slightly */ line-height: 1.4; }
+
+/* Make homepage post titles smaller */
+.posts .post h2 { font-size: 1.1rem; /* default is bigger */ margin-bottom: 0.5em; }
+
+/* Site-wide content (all pages/posts) */
+.page__content { font-size: 0.75rem; /* shrink body text */ line-height: 1.4; /* adjust readability */ }
+
+.page__title { font-size: 1.1rem; /* shrink page/post titles */ margin-bottom: 0.5em; }
