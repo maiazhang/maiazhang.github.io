@@ -1,0 +1,32 @@
+---
+---
+
+/* Import the theme skin and base styles first */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main theme
+
+/* --- Custom overrides below --- */
+
+/* Make homepage post body text smaller */
+.posts .post {
+  font-size: 0.75rem;   /* default is ~1rem, shrink slightly */
+  line-height: 1.4;
+}
+
+/* Make homepage post titles smaller */
+.posts .post h2 {
+  font-size: 1.1rem;   /* default is bigger */
+  margin-bottom: 0.5em;
+}
+
+
+/* Site-wide content (all pages/posts) */
+.page__content {
+  font-size: 0.75rem;   /* shrink body text */
+  line-height: 1.4;    /* adjust readability */
+}
+
+.page__title {
+  font-size: 1.1rem;   /* shrink page/post titles */
+  margin-bottom: 0.5em;
+}

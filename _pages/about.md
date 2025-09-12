@@ -1,8 +1,16 @@
 ---
 permalink: /about/
-title: "About"
+title: About Me
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a third-year PhD candidate at the University of Nevada, Reno in the Nevada Seismological Laboratory. My work is focused on studying fundamental earthquake properties through the lens of "big-data." As we collect increasingly larger data volumes from more advanced and widespread seismic instrumentation, we must reconcile our existing seismological frameworks and knowledgebase with novel methods, capable of capitalizing on these rich datasets. My aim is to work at this "big-data" intersection while remaining grounded in the fundamental philosophy that good science should serve the greater good.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Research Interests
+- Nevada seismicity and earthquake sequences
+- Data-driven methods
+- Machine learning workflows for event detection and characterization
+- Earthquake source properties
+
+# Education
+- B.A. in Mathematics, Cornell University, 2021
