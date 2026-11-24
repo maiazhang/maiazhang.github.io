@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/blog/post-mcre/",
         "teaser": null
+      },{
+        "title": "Using a Deep Borehole Array to Inform Earthquake Focal Depths",
+        "excerpt":"We leverage dense station coverage and waveform data from a 2km downhole geophone array to create a dataset of independently depth-constrained shallow earthquakes. Compared to a conventional location algorithm, we use waveform moveout up and down the vertical array and analyst-picked P and S arrivals to minimize misfit throughout a...","categories": ["Blog"],
+        "tags": [],
+        "url": "/blog/post-borehole/",
+        "teaser": null
       }]
