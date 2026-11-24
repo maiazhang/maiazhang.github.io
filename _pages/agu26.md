@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /agu25/
+permalink: /agu26/
 layout: single
 ---
 
